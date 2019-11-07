@@ -262,6 +262,12 @@ body{
 #about span {
     margin:1vh 0px;
     display:block;
+
+}
+#about span q {
+  margin:1vh 0px;
+  display:block;
+  flex-direction: column;
 }
 
 #about span i {
